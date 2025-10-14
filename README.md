@@ -15,7 +15,7 @@ Enter the number of minutes, start the timer, and when the time runs out, it sho
 
 ## 📸 Screenshot
 
-![Countdown Timer Screenshot](Screenshot 2025-10-14 100608.png)  
+![Countdown Timer Screenshot](Screenshot20251014100608.png)  
 
 ---
 
