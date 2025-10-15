@@ -1,8 +1,7 @@
 # ⏱️ Countdown Timer
 
-A **countdown timer** built with **HTML, CSS, and JavaScript**.  
+**Enter the number of minutes, start the timer, and when the time runs out, it shows **"Time's Up!"** on the screen.**.  
 
-Enter the number of minutes, start the timer, and when the time runs out, it shows **"Time's Up!"** on the screen.
 ---
 
 ## 🚀 Features
@@ -22,16 +21,6 @@ Enter the number of minutes, start the timer, and when the time runs out, it sho
 ## 🎬 Demo
 
 You can see the demo live [here](https://dineshsinghdhami.com.np/countdown-timer)
-
----
-
-💻 Tech Stack
-
-HTML 
-
-CSS
-
-JavaScript 
 
 ---
 
