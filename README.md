@@ -25,11 +25,8 @@ You can see the demo live [here](https://dineshsinghdhami.com.np/countdown-timer
 
 ---
 
-## 🛠️ How to Run Locally
-
----
-
 💻 Tech Stack
+
 HTML 
 
 CSS
@@ -52,7 +49,8 @@ When it reaches zero, "Time's Up!".
 
 📂 Folder Structure
 
-countdown-timer/
+countdown-timer
+
 ├── index.html       
 ├── style.css        
 ├── script.js        
