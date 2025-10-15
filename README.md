@@ -1,6 +1,10 @@
 # ⏱️ Countdown Timer
 
-**Enter the number of minutes, start the timer, and when the time runs out, it shows **"Time's Up!"** on the screen.**.  
+**Enter the number of minutes, start the timer, and when the time runs out, it shows **"Time's Up!"** on the screen.**.
+
+![Made with HTML](https://img.shields.io/badge/HTML5-orange)
+![Made with CSS](https://img.shields.io/badge/CSS3-blue)
+![Made with JS](https://img.shields.io/badge/JavaScript-yellowgreen)
 
 ---
 
